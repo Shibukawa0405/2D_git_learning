@@ -18,7 +18,7 @@ public class MergeHellController {
 		int num;
 		//1~100のランダムな数字
 		Random rand = new Random();
-		num = rand.nextInt(100 + 1);
+		num = rand.nextInt(100) + 1;
 
 		//結果出力
 		System.out.println("結果は" + num + "です");
