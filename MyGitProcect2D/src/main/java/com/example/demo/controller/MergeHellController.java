@@ -21,6 +21,6 @@ public class MergeHellController {
 		num = rand.nextInt(100 + 1);
 
 		//結果出力
-		System.out.println("結果は" + num + "です");
+		System.out.println(num + "が出ました");
 	}
 }
