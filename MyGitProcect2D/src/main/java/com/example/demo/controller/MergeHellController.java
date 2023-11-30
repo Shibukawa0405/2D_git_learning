@@ -1,6 +1,6 @@
 package com.example.demo.controller;
-import java.util.Random;
 
+import java.util.Random;
 
 public class MergeHellController {
 	public static void main(String[] args) {
@@ -22,7 +22,5 @@ public class MergeHellController {
 
 		//結果出力
 		System.out.println("結果は" + num + "です");
-
 	}
 }
-
